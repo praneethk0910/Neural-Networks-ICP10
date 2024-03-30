@@ -4,6 +4,6 @@ Name: Praneeth Kumar Reddy Annapureddy ID: 700747594
 
 Types of ANNs and Recurrent Neural Network.
 
-Code File: 
+Code File: Neural-ICP10.ipynb
 
-Document: 
+Document: Neural-ICP10.pdf
